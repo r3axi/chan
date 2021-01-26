@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	d8728722bb2a58a74e33357a225a2ad9a1611676644
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.hizliresim.com	TRUE	/	FALSE	1999999999	__cfduid	d2994f6ad477c529227163b50c32f16731611676652
+i.hizliresim.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.astralcode.tk	TRUE	/	FALSE	1999999999	__cfduid	de7d887d541b0526e43ea7c4a856df2a91611676726
+astralcode.tk	TRUE	/	FALSE	1999999999	SameSite	Lax
+

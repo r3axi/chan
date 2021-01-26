@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 26 Jan 2021 18:57:22 at https://astralcode.tk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://astralcode.tk/ -O1 "C:\My Web Sites\https___astralcode.tk_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:57:23	Warning: 	Found for https://astralcode.tk/robots.txt
+18:57:23	Warning: 	File has moved from https://astralcode.tk/robots.txt to /hata?statuscode=404&message=Sayfa%20Bulunamad%C4%B1
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/736348554783883374/a_0d1d4997a81b2f618bae132a97dfee68.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/589788711928201227/958ac24daf0cf0f1d5fb501e494bc0eb.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/739511216547823708/741d32cae01d442724a8b777734647a8.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/686617870192345128/416da28f8bcbf14b42b6fcd8e2d56d6d.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/402441379059466241/c792acb93b4768b3f6e186779742829c.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/744644178884952174/39ee0ed0d213612ef70121b049bf7d3a.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/700403747624452227/8ae6789353ac8e575602e84706dd069d.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/445098637865779230/cd7450e0026040d6c5d99da5563d3edb.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/744644178884952174/4598cc5d1f1cb15b6b539d154af6047a.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/447480379092500482/546c6a1680d464ece942bc61fa262a74.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/744644178884952174/cc2b25644dd4c2a8fb9f95b5c5ffad0d.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/691081024024608848/a6935113c2653387dfe9e92688a5aec6.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/727046674006147134/a0a9a522106e33e619c48adb2dceb63e.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/739511216547823708/b52bfe62baa215a7f5c57b8f2b892f87.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/451033109782200331/e9a7cda56ad71575b915ab8cb2702500.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/520564502136356864/null.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/709690707253657600/a_0f1d7f0a4b48888f74b8d32b0807f33f.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/728863497915596872/a_90fa983d71c1c3d00e66e9d92fc40a4a.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/723296120091967668/a_f671ba280b356220d0513cc901faf88f.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/578227672879202306/71084d9e81ae2607cbff7a8465934bcb.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/719839583701041154/646a1c3fec6dc3dc1891c3cb2d737ceb.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/542348143379873792/fe43365692c26ff33908755d39264432.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/710956419142254664/5fb824a7ae361e51010108daccac6db9.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/739482264160960573/da4cd3741e3a13fec09535c26fe8e4e9.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/735082731909939241/4cddbe12f9b51203e43a1587b92fb08d.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/699263405537886310/3d3840633aca105e93e749325370d318.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/691511262215143446/e734d273985e7bea67620585a1788b60.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/505695245137346571/645f85ec9d62308270a95727a61040ac.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/568547592548384800/e76099bb35a5d800b1848bb57d04dff8.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/712636009443098645/9e77bec3583008efad9537eed155d2da.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/301044320251805697/a_0f6e556d90f509db380fbfe1489a69ee.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/718065229027737701/19f6dd76001b76016a50a754c81bbf1e.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/432226678010281995/a_8a474ef6a35cc1b7ef01dfcd56e3418d.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/721017256661745664/390a55fca04743bd6222d43496656584.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/426784890948943873/a_de5eb4e62a4d6da5c0d1881373fd3861.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/539038522540294145/a_c26ca0ff1a783ea9a59413eeeb16be1d.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/606555563513610290/a_f8db68ff9b286616a28f19f25d6e1c09.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/698489456264478750/d7b726ec263814d76dcae64ca47debd3.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/632844500745584660/700880d835b976f25d5bbb82780d43e5.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/613758276512907289/a_091ec8d931725db8adeb7fa431ec2691.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/449573143158194186/96c06dd5830d82d2d0487b9333a2385e.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/415873245493985282/8f568a1b42ce7c7562aedff46581be59.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/387137154729377792/08fa01b4a3d51c41a122c1475b121aea.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/714377057693335603/6adec31843fb7c4643dfe88d7c581784.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/555434831794798592/1061feacfed738925075d1e2f1024d9c.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/713378164251820112/a_4e3bd86f8796418051de9cc1c0b6e7ba.png (from https://astralcode.tk/topluluk)
+18:58:46	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/icons/720975143366819932/4ac40aff951fafa5dfe237d0de6592b5.png?size=128 (from https://astralcode.tk/bilgilendirme)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 24 seconds : 89 links scanned, 41 files written (3281846 bytes overall) [3125672 bytes received at 37210 bytes/sec], 844918 bytes transferred using HTTP compression in 20 files, ratio 33%, 25.0 requests per connection
+(47 errors, 2 warnings, 0 messages)
